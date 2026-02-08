@@ -10,3 +10,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/WeLoveGentoo/WeLoveGentoo?style=for-the-badge)
 
 ---
+
+🖤 *Gentoo, my beloved.*
